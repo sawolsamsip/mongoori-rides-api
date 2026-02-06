@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mongoori-rides-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5af7e400-a212-4124-a03b-8be5f8aacf6e",
+			"database_name": "mongoori-rides-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
